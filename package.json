@@ -1,0 +1,14 @@
+{
+  "name":"oauth2client",
+  "description":"a proof of concept oauth2 server",
+  "dependencies": {
+    "passport-oauth2":"*",
+    "passport":"*",
+    "express":"*",
+    "morgan":"*",
+    "jade": "*",
+    "express-session": "*",
+    "cookie-parser": "*",
+    "body-parser": "*"
+  }
+}
